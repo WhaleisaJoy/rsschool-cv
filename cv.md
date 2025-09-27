@@ -3,7 +3,7 @@
 ## Contact information
 
 **Phone:** +79159983079\
-**E-mail:** [afterlifelineonomega\@gmail.com](mailto:afterlifelineonomega@gmail.com)\
+**E-mail:** [afterlifelineonomega@gmail.com](mailto:afterlifelineonomega@gmail.com)\
 **GitHub:** [WhaleisaJoy](https://github.com/WhaleisaJoy)\
 **Telegram:** [WhaleJoyOcean](https://t.me/whalejoyocean)\
 **LinkedIn:** [maria-makarova](https://www.linkedin.com/in/maria-makarova-580a12235/)\
@@ -46,9 +46,9 @@ function towerBuilder(nFloors) {
 ## Work experience
 
 - **2015 - 2016** _Developer_
-- **2016 - 2018** _E-learning Developer_ Create e-leaning courses (HTML, CSS, JS)
-- **2018 - 2022** _E-learning Developer_ Create e-leaning courses and browser games (HTML, CSS, JS, Phaser3)
-- **2022 - Present** _E-learning Developer_ Create e-leaning courses and browser games (HTML, CSS, JS, Phaser3)
+- **2016 - 2018** _E-learning Developer_, create e-leaning courses (HTML, CSS, JS)
+- **2018 - 2022** _E-learning Developer_, create e-leaning courses and browser games (HTML, CSS, JS, Phaser3)
+- **2022 - Present** _E-learning Developer_, create e-leaning courses and browser games (HTML, CSS, JS, Phaser3)
 
 ## Education
 
@@ -56,14 +56,14 @@ function towerBuilder(nFloors) {
 
 Demidov Yaroslavl State University
 
-- sociology, 2011-2015 (MA)
-- sociology, 2015-2017 (BA)
+- Sociology, 2011-2015 (MA)
+- Sociology, 2015-2017 (BA)
 
 **Courses:**
 
 - HTML Academy
-  - HTML &CSS. Professional Website Coding, 2020
-  - HTML &CSS. Adaptive Website Coding and Automation, 2021
+  - HTML&CSS. Professional Website Coding, 2020
+  - HTML&CSS. Adaptive Website Coding and Automation, 2021
   - JavaScript.Professional Development of Web Interfaces, 2021
   - JavaScript.Architecture of Front-end Applications, 2021
   - React.Development of Complex Front-end Applications, 2024
